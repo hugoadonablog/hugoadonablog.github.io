@@ -181,6 +181,49 @@ Why it works: Times New Roman is a widely recognized serif font with excellent r
 
 <b>Remember:</b> This list is just a starting point. The best fonts for your project will depend on your specific needs and preferences. Experiment with different combinations and find the perfect typography for your website.`,
             image: 'https://images.pexels.com/photos/5045981/pexels-photo-5045981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' // Replace with your image URL
+        },
+        {
+            title: '8 HTML5 Input Types You May Not Be Using',
+            content: `HTML5 introduced a plethora of new input types that can significantly enhance user experience and data validation in web forms. While some are widely used, others remain relatively unknown. In this blog post, we'll delve into several HTML5 input types that you might not be leveraging to their full potential.
+
+1. date
+
+The date input type is ideal for capturing dates. When a user clicks on the input field, a calendar interface appears, making it easy to select a specific date. This not only improves user experience but also ensures data consistency and accuracy.
+
+2. time
+
+Similar to date, the time input type is designed for capturing time values. It provides a convenient way for users to select hours and minutes, often accompanied by an AM/PM indicator.
+
+3. datetime-local
+
+If you need to collect both date and time information in a single field, the datetime-local input type is the perfect choice. It combines the functionality of date and time into a single input element.
+
+4. month
+
+For scenarios where you only need to collect the month and year, the month input type is available. It presents users with a calendar-like interface to select the desired month and year.
+
+5. week
+
+If you're working with data related to weeks of the year, the week input type can be useful. It allows users to select a specific week number and year.
+
+6. number
+
+The number input type is designed for collecting numeric values. You can specify the minimum and maximum values, as well as the step increment. This ensures that users enter valid numerical data within the desired range.
+
+7. range
+
+When you need to allow users to select a value within a specific range, the range input type is ideal. It displays a slider that users can drag to select their desired value.
+
+8. color
+
+For collecting color information, the color input type provides a convenient color picker. Users can select a color from a palette or enter a hexadecimal color code.
+
+9. email
+
+While widely used, it's worth mentioning that the email input type offers built-in validation to ensure that the entered value adheres to email format standards.
+
+By incorporating these HTML5 input types into your web forms, you can enhance user experience, improve data quality, and streamline form validation processes. Experiment with these options to find the best fit for your specific needs and create more engaging and efficient web applications.`,
+            image: 'https://images.pexels.com/photos/907489/pexels-photo-907489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' // Replace with your image URL
         }
     ];
 
