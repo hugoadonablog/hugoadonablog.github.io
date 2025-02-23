@@ -323,7 +323,49 @@ The resize property allows elements to be resized by the user. While it’s ofte
 
 CSS has so much to offer when it comes to interactivity, and these lesser-known properties can help you create smooth, dynamic, and user-friendly designs. From improving accessibility with :focus-visible to creating toggle effects with :checked, there are many ways you can enhance your website’s user experience with just a few simple properties. Experiment with these techniques and see how they can take your web design to the next level!`,
             image: 'https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' // Replace with your image URL
-        }
+        },
+        {
+            title: 'Roadmap to Learn JavaScript: A Beginner Guide',
+            content: `Roadmap to Learn JavaScript: A Beginner's Guide
+
+JavaScript is one of the most popular programming languages, powering dynamic web applications and interactive websites. If you're new to JavaScript, following a structured roadmap can help you learn efficiently. Here's a step-by-step guide to mastering JavaScript:
+
+ 1. Understand the Basics
+   - Learn about variables, data types, and operators.
+   - Understand functions, loops, and conditional statements.
+   - Get comfortable with arrays and objects.
+
+ 2. Explore the DOM (Document Object Model)
+   - Learn how to manipulate HTML and CSS using JavaScript.
+   - Understand event handling and user interactions.
+
+ 3. Work with Asynchronous JavaScript
+   - Learn about callbacks, promises, and async/await.
+   - Understand how JavaScript handles API requests using Fetch and AJAX.
+
+ 4. Master ES6+ Features
+   - Explore modern JavaScript syntax like arrow functions, template literals, destructuring, and modules.
+   - Learn about classes and the "this" keyword.
+
+ 5. Practice with Projects
+   - Build small projects like a to-do list, a weather app, or a calculator.
+   - Apply what you learn in real-world scenarios.
+
+ 6. Learn JavaScript Frameworks/Libraries
+   - Explore libraries like jQuery (optional) and frameworks like React.js or Vue.js.
+   - Understand how front-end frameworks simplify development.
+
+ 7. Deepen Your Understanding
+   - Learn about design patterns, best coding practices, and performance optimization.
+   - Explore backend development with Node.js if you're interested in full-stack development.
+
+ 8. Keep Practicing and Stay Updated
+   - JavaScript is constantly evolving, so stay updated with new features.
+   - Follow online courses, read documentation, and contribute to open-source projects.
+
+By following this roadmap, you'll gradually build a solid foundation in JavaScript and enhance your web development skills. Keep coding and experimenting to grow as a developer!`,
+            image: 'https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' // Replace with your image URL
+        },
     ];
 
     const reversedPosts = posts.slice().reverse();
